@@ -1,8 +1,4 @@
 ## React-Redux
 ``` 
-    Action Creator ->
-                        Action -> 
-                                    Dispatch -> 
-                                                    Reducer -> 
-                                                                    State
+    Action Creator -> Action -> Dispatch -> Reducer -> State
 ```
